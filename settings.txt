@@ -1,0 +1,4 @@
+root: C:\Users\sanga\DTC-Bus 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none

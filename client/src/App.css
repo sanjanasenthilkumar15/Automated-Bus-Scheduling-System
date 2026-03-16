@@ -1,0 +1,7 @@
+/* App.css - minimal overrides, main styles are in index.css */
+#root {
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
